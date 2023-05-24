@@ -1,1 +1,48 @@
 # BlueGamesEntertainment
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Scott Games</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        
+        #container {
+            width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        #logo {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        #logo img {
+            max-width: 400px;
+        }
+        
+        #teaser {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        #teaser img {
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="logo">
+            <img src="scotsx.png" alt="BlueGames">
+        </div>
+        <div id="teaser">
+            <img src="Teaser_gamexd.png" alt="Teaser Image">
+        </div>
+    </div>
+</body>
+</html>
